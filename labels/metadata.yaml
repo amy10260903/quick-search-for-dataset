@@ -1,0 +1,54 @@
+recodings_number: 67
+tot_dur: 14100
+min_dur: 20.7
+max_dur: 1625.6
+location_KW:
+- train station
+- train platform
+- drug store
+- cafe store
+- road
+- temple
+- hospital
+- shinkansen
+- subway
+- shopping street
+- appliance shop
+- ticket vending machine
+- market escalator
+- market elevator
+- market toy area
+- corridor
+- 3C shopping street
+- night market
+soundsource_KW:
+- ticket machine
+- train approach sound
+- subway approach sound
+- human voice
+- kid voice
+- broadcast
+- elevator sound
+- Barrier free sound
+- ambulance
+- truck reversing
+- bicycle brake
+- bicycle ring
+- car pass
+- cafe music
+- shopping street music
+- peddlery
+- appliance sound
+- ticket vending machine sound
+- music
+- footsteps
+- "thud(\u95DC\u9580\u8072)"
+- ding dong
+- falling
+- dragging
+- "clinking(\u96F6\u9322\u8072)"
+- subway moving sound
+- subway door closing sound
+- rolling shutter sound
+- radio
+- keyboard

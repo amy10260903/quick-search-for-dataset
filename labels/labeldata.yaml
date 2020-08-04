@@ -1,0 +1,521 @@
+oosaka001.wav:
+  location:
+  - shinkansen
+  location_details:
+  soundsource:
+  - broadcast
+  soundsource_details:
+oosaka002.wav:
+  location:
+  - shinkansen
+  location_details:
+  soundsource:
+  - broadcast
+  soundsource_details:
+oosaka003.wav:
+  location:
+  - shinkansen
+  location_details:
+  soundsource:
+  - ticket machine
+  - human voice
+  soundsource_details:
+oosaka004.wav:
+  location:
+  - shinkansen
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  soundsource_details:
+oosaka005.wav:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - human voice
+  soundsource_details:
+oosaka008.wav:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  - Barrier free sound
+  soundsource_details:
+oosaka010.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - shopping street music
+  soundsource_details:
+oosaka011.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  - peddlery
+  soundsource_details:
+oosaka012.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - broadcast
+  - shopping street music
+  soundsource_details:
+oosaka013.wav:
+  location:
+  - appliance shop
+  location_details:
+  soundsource:
+  - appliance sound
+  soundsource_details:
+oosaka016.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - shopping street music
+  - peddlery
+  soundsource_details:
+oosaka019.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  soundsource_details:
+oosaka021.wav:
+  location:
+  - ticket vending machine
+  location_details:
+  soundsource:
+  - ticket machine
+  - broadcast
+  - ticket vending machine sound
+  soundsource_details:
+oosaka024.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  soundsource_details:
+oosaka025.wav:
+  location:
+  - market escalator
+  location_details:
+  soundsource:
+  - broadcast
+  soundsource_details:
+oosaka026.wav:
+  location:
+  - market toy area
+  location_details:
+  soundsource:
+  - kid voice
+  soundsource_details:
+oosaka028.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - shopping street music
+  soundsource_details:
+oosaka029.wav:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - shopping street music
+  soundsource_details:
+oosaka030.wav:
+  location:
+  - shopping street
+  - market elevator
+  location_details:
+  soundsource:
+  - human voice
+  - elevator sound
+  - shopping street music
+  soundsource_details:
+tokyo002.wav:
+  location:
+  - train platform
+  location_details:
+  soundsource:
+  - ticket machine
+  - train approach sound
+  - human voice
+  - broadcast
+  - Barrier free sound
+  soundsource_details:
+tokyo005.wav:
+  location:
+  - train station
+  - train platform
+  location_details:
+  soundsource:
+  - ticket machine
+  - train approach sound
+  - human voice
+  - broadcast
+  - Barrier free sound
+  soundsource_details:
+tokyo008.wav:
+  location:
+  - road
+  location_details:
+  soundsource:
+  - human voice
+  - kid voice
+  - ambulance
+  - truck reversing
+  - bicycle brake
+  soundsource_details:
+tokyo011.wav:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - Barrier free sound
+  soundsource_details:
+tokyo013.wav:
+  location:
+  - train station
+  - road
+  - ticket vending machine
+  location_details:
+  soundsource:
+  - train approach sound
+  - human voice
+  - broadcast
+  - Barrier free sound
+  - shopping street music
+  - ticket vending machine sound
+  soundsource_details:
+tokyo014.m4a:
+  location:
+  - cafe store
+  location_details:
+  soundsource:
+  - human voice
+  - cafe music
+  soundsource_details:
+tokyo015.m4a:
+  location:
+  - cafe store
+  location_details:
+  soundsource:
+  - human voice
+  - cafe music
+  soundsource_details:
+tokyo016.m4a:
+  location:
+  - train platform
+  location_details:
+  soundsource:
+  - subway approach sound
+  - human voice
+  - kid voice
+  - Barrier free sound
+  soundsource_details:
+tokyo017.m4a:
+  location:
+  - train station
+  - subway
+  location_details:
+  soundsource:
+  - ticket machine
+  - subway approach sound
+  - human voice
+  - broadcast
+  - Barrier free sound
+  soundsource_details:
+tokyo018.m4a:
+  location:
+  - train station
+  - subway
+  location_details:
+  soundsource:
+  - ticket machine
+  - human voice
+  - broadcast
+  soundsource_details:
+tokyo019.m4a:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - shopping street music
+  - appliance sound
+  soundsource_details:
+tokyo020.m4a:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - shopping street music
+  soundsource_details:
+tokyo021.m4a:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - kid voice
+  - shopping street music
+  soundsource_details:
+tokyo022.m4a:
+  location:
+  - appliance shop
+  location_details:
+  soundsource:
+  - human voice
+  - shopping street music
+  - peddlery
+  - appliance sound
+  soundsource_details:
+tokyo034.m4a:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  soundsource_details:
+tokyo033.m4a:
+  location:
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - shopping street music
+  soundsource_details:
+tokyo032.m4a:
+  location:
+  - road
+  location_details:
+  soundsource:
+  - human voice
+  - truck reversing
+  - car pass
+  - peddlery
+  soundsource_details:
+tokyo031.m4a:
+  location:
+  - road
+  location_details:
+  soundsource:
+  - human voice
+  - ambulance
+  - truck reversing
+  soundsource_details:
+tokyo025.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - human voice
+  - broadcast
+  - Barrier free sound
+  soundsource_details:
+tokyo026.m4a:
+  location:
+  - road
+  - shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - kid voice
+  - shopping street music
+  - peddlery
+  soundsource_details:
+tokyo027.m4a:
+  location:
+  - appliance shop
+  location_details:
+  soundsource:
+  - shopping street music
+  - appliance sound
+  soundsource_details:
+tokyo028.m4a:
+  location:
+  - train station
+  - ticket vending machine
+  location_details:
+  soundsource:
+  - ticket machine
+  - broadcast
+  - ticket vending machine sound
+  soundsource_details:
+tokyo029.m4a:
+  location:
+  - shopping street
+  - appliance shop
+  location_details:
+  soundsource:
+  - human voice
+  - shopping street music
+  soundsource_details:
+tokyo030.m4a:
+  location:
+  - road
+  location_details:
+  soundsource:
+  - human voice
+  - bicycle ring
+  - car pass
+  - peddlery
+  soundsource_details:
+Taiwan001.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - human voice
+  - music
+  soundsource_details:
+Taiwan002.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - human voice
+  - kid voice
+  - broadcast
+  - footsteps
+  - "thud(\u95DC\u9580\u8072)"
+  soundsource_details:
+Taiwan003.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - train approach sound
+  - human voice
+  - broadcast
+  soundsource_details:
+Taiwan004.m4a:
+  location:
+  - corridor
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  - footsteps
+  - falling
+  soundsource_details:
+Taiwan005.m4a:
+  location:
+  - drug store
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  - music
+  - ding dong
+  - dragging
+  soundsource_details:
+Taiwan006.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - ticket machine
+  - subway approach sound
+  - human voice
+  - kid voice
+  - broadcast
+  - footsteps
+  - "clinking(\u96F6\u9322\u8072)"
+  soundsource_details:
+Taiwan007.m4a:
+  location:
+  - train station
+  location_details:
+  soundsource:
+  - human voice
+  - ticket vending machine sound
+  - "clinking(\u96F6\u9322\u8072)"
+  soundsource_details:
+Taiwan008.m4a:
+  location:
+  - train platform
+  location_details:
+  soundsource:
+  - subway approach sound
+  - kid voice
+  - broadcast
+  - elevator sound
+  - music
+  - dragging
+  soundsource_details:
+Taiwan009.m4a:
+  location:
+  - subway
+  location_details:
+  soundsource:
+  - kid voice
+  - broadcast
+  - subway moving sound
+  - subway door closing sound
+  soundsource_details:
+Taiwan010.m4a:
+  location:
+  - road
+  location_details:
+  soundsource:
+  - car pass
+  soundsource_details:
+Taiwan011.m4a:
+  location:
+  - 3C shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - music
+  - footsteps
+  soundsource_details:
+Taiwan012.m4a:
+  location:
+  - 3C shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - music
+  - rolling shutter sound
+  - radio
+  soundsource_details:
+Taiwan013.m4a:
+  location:
+  - 3C shopping street
+  location_details:
+  soundsource:
+  - human voice
+  - broadcast
+  - music
+  - footsteps
+  - keyboard
+  soundsource_details:
+Taiwan014.m4a:
+  location:
+  - night market
+  location_details:
+  soundsource:
+  - human voice
+  - kid voice
+  - music
+  soundsource_details:

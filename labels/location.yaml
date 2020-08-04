@@ -1,0 +1,36 @@
+location:
+- id: TW-HC
+  country: Taiwan
+  city: Hsinchu
+- id: TW-TPE
+  country: Taiwan
+  city: Taipei
+- id: JP-OSK
+  country: Japan
+  city: Osaka
+- id: JP-TK
+  country: Japan
+  city: Tokyo
+
+place:
+- Train Station (Subway)
+- Train Station (Railway)
+- Train Station (High Speed Rail)
+- On train
+- On bus
+- In car
+- Sidewalk
+- Hypermarket
+- Supermarket
+- Open-air market
+- Night market
+- Chemist
+- Department Store
+- Shopping Mall
+- Hospital
+- Amusement park
+- Eatery
+- Restaurant
+- Cafeteria
+
+soundsource:
